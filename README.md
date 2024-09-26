@@ -6,7 +6,6 @@ Software Engineering Day1 Assignment
 
 Explain what software engineering is and discuss its importance in the technology industry.
     Software engineering is the systematic application of engineering principles, methods, and tools to design, develop, test, deploy, and maintain high-quality software systems.
-
     Importance of Software Engineering in the Technology Industry:
         Enables the creation of software applications and systems.
         Powers key areas such as communication, commerce, entertainment, and healthcare.
@@ -32,7 +31,6 @@ List and briefly explain the phases of the Software Development Life Cycle.
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
     - Waterfall: Sequential approach with distinct phases (e.g., requirements, design, implementation) flowing downwards like a waterfall
     - Agile: Iterative and incremental approach focused on flexibility, collaboration, and responding to change
-    
     When to Use Each:
         Waterfall: Use when requirements are stable, the project is large and complex, and changes would be costly (e.g., defense or aerospace projects).
         Agile: Use for projects requiring frequent updates, ongoing user feedback, and flexibility (e.g., SaaS platforms, mobile app development).
@@ -54,7 +52,7 @@ What are some common challenges faced by software engineers? Provide strategies 
     - Tight Deadlines: Pressure to deliver software products on schedule can result in rushed development and compromised quality.
     - Technical Debt: Accrued from shortcuts or suboptimal solutions, technical debt can impede future development efforts and increase maintenance costs.
         
-        Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
+Strategies for overcoming challenges include effective communication, agile methodologies, prioritization of tasks, and regular reassessment of project goals and timelines.
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
@@ -88,9 +86,7 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
     Vague Prompt - Create a website for my business.
-    
     Improved Prompt - Design a responsive website for my bike company, 'Adande Bikes,' that features a homepage, product page for enduro bikes, contact page, and integrates an online store with PayPal and Stripe payment options.
-
     Why the Improved Prompt is More Effective
         Clarity - The improved prompt specifies the topic (World War II) instead of a broad subject (history), which helps the AI understand exactly what to focus on.
         Specificity - It clearly states what aspects to cover—causes and major turning points—guiding the AI to provide relevant information without unnecessary details.
